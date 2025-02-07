@@ -15,5 +15,7 @@ This is a **Java Swing-based Inventory and Order Management System** that allows
 - **GUI Framework**: Swing
 - **Database**: MySQL
 - **JDBC Driver**: MySQL Connector/J
-- **Architecture**: Layered architecture (DAO, Service, UI)
+- **Architecture**: Layered architecture
 
+<img src="pic/ItemView.png">
+<img src="pic/PlaceOrderView.png">
