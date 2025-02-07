@@ -5,6 +5,7 @@ This is a **Java Swing-based Inventory and Order Management System** that allows
 
 ## 🚀 Features
 - **Item Management**: Add, update, delete, and view items.
+- **Customer Management**: Add, update, delete, and view customer.
 - **Order Management**: Create and manage orders.
 - **Customer Search**: Lookup customer details.
 - **GUI-Based Forms**: User-friendly interfaces built with Java Swing.
@@ -18,4 +19,5 @@ This is a **Java Swing-based Inventory and Order Management System** that allows
 - **Architecture**: Layered architecture
 
 <img src="pic/ItemView.png">
+<img src="pic/CustomerForm.png">
 <img src="pic/PlaceOrderView.png">
